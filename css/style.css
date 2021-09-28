@@ -39,6 +39,11 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.inner-width{
+    margin: auto;
+    max-width: 1920px;
+}
+
 /* ====== HEADER ====== */
 header {
     width: 100%;
